@@ -1,15 +1,15 @@
-# dtb-cli
+# dtb-devkit
 
 Everyday developer utilities in one command. No install, no browser tabs, no sketchy websites.
 
 ```bash
-npx dtb-cli uuid
+npx dtb-devkit uuid
 ```
 
 Install globally for the short `dtb` command:
 
 ```bash
-npm i -g dtb-cli
+npm i -g dtb-devkit
 dtb uuid
 ```
 
