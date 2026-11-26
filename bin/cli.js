@@ -12,7 +12,7 @@ const HELP = `
 ${bold("dtb")} - everyday developer utilities
 
 ${bold("Usage")}
-  npx dev-toolbox <command> [input] [options]
+  npx dtb-cli <command> [input] [options]
   (global install: ${bold("dtb")} <command>)
 
 ${bold("Commands")}

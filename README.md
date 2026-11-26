@@ -1,15 +1,15 @@
-# dev-toolbox
+# dtb-cli
 
 Everyday developer utilities in one command. No install, no browser tabs, no sketchy websites.
 
 ```bash
-npx dev-toolbox uuid
+npx dtb-cli uuid
 ```
 
 Install globally for the short `dtb` command:
 
 ```bash
-npm i -g dev-toolbox
+npm i -g dtb-cli
 dtb uuid
 ```
 
